@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #这个物品不会，copy
 from __future__ import generators
 

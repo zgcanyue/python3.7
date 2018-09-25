@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #用户、日志、评论三张表,datatime:2018/8/29
 import time,uuid
 from orm import Model,StringField,BooleanField,FloatField,TextField

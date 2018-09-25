@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #datatime:2018/8/30
 #Web框架
 import asyncio,os,inspect,logging,functools

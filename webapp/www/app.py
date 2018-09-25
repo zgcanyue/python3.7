@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #app骨架，datatime:2018/8/27
 import logging;logging.basicConfig(level=logging.INFO)
 from handlers import cookie2user,COOKIE_NAME

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #datatime:2018/8/31
 #配置文件
 #Web App在运行时都需要读取配置文件，比如数据库的用户名、口令等，

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #datatime:2018/8/31
 #读取配置文件
 
