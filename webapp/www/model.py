@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #用户、日志、评论三张表,datatime:2018/8/29
 import time,uuid

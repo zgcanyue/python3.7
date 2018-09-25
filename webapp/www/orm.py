@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #datatime:2018/8/28
 #封装数据库常用操作SELECT、INSERT、UPDATE和DELETE

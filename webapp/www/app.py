@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #app骨架，datatime:2018/8/27
 import logging;logging.basicConfig(level=logging.INFO)
